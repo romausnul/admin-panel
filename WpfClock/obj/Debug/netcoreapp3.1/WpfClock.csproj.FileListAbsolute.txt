@@ -1,0 +1,8 @@
+D:\WpfClock\WpfClock\obj\Debug\netcoreapp3.1\WpfClock.csproj.AssemblyReference.cache
+D:\WpfClock\WpfClock\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\WpfClock\WpfClock\obj\Debug\netcoreapp3.1\App.g.cs
+D:\WpfClock\WpfClock\obj\Debug\netcoreapp3.1\WpfClock_MarkupCompile.cache
+D:\WpfClock\WpfClock\obj\Debug\netcoreapp3.1\WpfClock_MarkupCompile.lref
+D:\WpfClock\WpfClock\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\WpfClock\WpfClock\obj\Debug\netcoreapp3.1\WpfClock.g.resources
+D:\WpfClock\WpfClock\obj\Debug\netcoreapp3.1\WpfClock.pdb
